@@ -34,13 +34,12 @@ To Install,
     * Click **Next**, to go to **Create project** screen.
 
 4. Enter your project name and click **Create**. 
-   
-  ** Select some tools now screen** is displayed.
+  
+   **Select some tools now screen** is displayed.
 
 5. On the **Select some tools now** screen, perform one of the following tasks:
     * Select the required tools and click **Next**.
     * Select **Skip**.
 
 The Jira Dashboard is displayed.
-
 
